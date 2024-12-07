@@ -380,7 +380,7 @@ body {
   .view-more:hover {
     background-color: #044e6b;
   }
-  
+
   @media (min-width: 768px) {
     .about-us-section {
       flex-direction: row; 
@@ -672,9 +672,9 @@ body {
         /* background-color: #1dade6; */
         border: none;
         color: black;
-        padding: 12px 15px;
+        padding: 10px 15px;
         font-size: 12px;
-        margin: 0 10px;
+        margin: 2px 10px;
         cursor: pointer;
         border-radius: 5px;
         /* transition: background-color 0.3s ease; */
